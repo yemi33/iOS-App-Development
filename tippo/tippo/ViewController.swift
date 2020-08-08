@@ -17,6 +17,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipControl: UISegmentedControl!
     @IBOutlet weak var refreshButton: UIButton!
     
+    
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
@@ -30,6 +32,11 @@ class ViewController: UIViewController {
             },
             completion: nil
         )
+        
+        let defaults = UserDefaults.standard
+        let defaultTipPercentage = defaults.double(forKey:"defaultTip")
+        tipControl.setTitle("\(defaultTipPercentage)%", forSegmentAt: 0)
+        
     }
     
     

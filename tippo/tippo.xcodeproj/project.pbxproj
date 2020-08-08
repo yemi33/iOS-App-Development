@@ -17,6 +17,7 @@
 		E99D0F5224D078CF00310D2D /* tippoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99D0F5124D078CF00310D2D /* tippoUITests.swift */; };
 		E99D0F6024D08FF100310D2D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99D0F5F24D08FF100310D2D /* SettingsViewController.swift */; };
 		E99D0F6224D09D0700310D2D /* SettingsViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = E99D0F6124D09D0700310D2D /* SettingsViewController1.swift */; };
+		E99D0F6624D1F6D000310D2D /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = E99D0F6524D1F6D000310D2D /* logo.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		E99D0F5324D078CF00310D2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E99D0F5F24D08FF100310D2D /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = SOURCE_ROOT; };
 		E99D0F6124D09D0700310D2D /* SettingsViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController1.swift; sourceTree = "<group>"; };
+		E99D0F6524D1F6D000310D2D /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../../../../Downloads/logo.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				E99D0F3824D078CF00310D2D /* Assets.xcassets */,
 				E99D0F3A24D078CF00310D2D /* LaunchScreen.storyboard */,
 				E99D0F3D24D078CF00310D2D /* Info.plist */,
+				E99D0F6524D1F6D000310D2D /* logo.png */,
 				E99D0F6124D09D0700310D2D /* SettingsViewController1.swift */,
 			);
 			path = tippo;
@@ -239,6 +242,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E99D0F3C24D078CF00310D2D /* LaunchScreen.storyboard in Resources */,
+				E99D0F6624D1F6D000310D2D /* logo.png in Resources */,
 				E99D0F3924D078CF00310D2D /* Assets.xcassets in Resources */,
 				E99D0F3724D078CC00310D2D /* Main.storyboard in Resources */,
 			);
