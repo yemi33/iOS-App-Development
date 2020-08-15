@@ -9,20 +9,20 @@ Time spent: **10** hours spent in total
 # User Stories
 The following required functionality is complete:
 
-* [V] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [V] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following optional features are implemented:
 
-* [V] UI animations
+* [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
-* [V] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
+* [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
 The following additional features are implemented:
 
-* [V] Clearing the entry when the 'clear button' is pressed.
-* [V] A settings page where the user can enter a default tip amount, which is reflected on the deafault tab of the segmented control. 
+* [ ] Clearing the entry when the 'clear button' is pressed.
+* [ ] A settings page where the user can enter a default tip amount, which is reflected on the deafault tab of the segmented control. 
 
 # Video Walkthrough
 Here's a walkthrough of implemented user stories:
